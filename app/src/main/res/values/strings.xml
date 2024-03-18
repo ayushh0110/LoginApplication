@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+
+    <string name="app_name">Loginapp</string>
+    <string name="sign_in">Sign in</string>
+    <string name="username">Username</string>
+    <string name="Password">Password</string>
+    <string name="LOGIN">Log in</string>
+    <string name="Forgotpassword">Forgot password ?</string>
+    <string name="Signup">Sign up</string>
+    <string name="orsigninwith">or sign in with</string>
+    <string name="Welcome">Welcome</string>
+    <string name="OB">Open link </string>
+    <string name="Pno">Phone number</string>
+    <string name="Sotp">Send OTP</string>
+    <string name="Enterpno">Enter your Phone number here</string>
+    <string name="Votp">Verify OTP</string>
+<string name="setpass">Set password</string>
+    <string name="repass">Re-enter password</string>
+    <string name="Ep">Enter password</string>
+     <string name="epass">Set your new password</string>
+
+    <string name="facebook_app_id">1234</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">56789</string>
+    <string name="kk">Enter your email</string>
+    <string name="Em">email</string>
+    <string name="sl">Send link</string>
+    <string name="th">Tap here to reset by email</string>
+
+
+
+
+</resources>

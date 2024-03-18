@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">लॉगिन ऐप</string>
+
+    <string name="sign_in">साइन इन </string>
+    <string name="username">यूजरनेम </string>
+    <string name="Password">पासवर्ड</string>
+    <string name="LOGIN">लॉग इन</string>
+    <string name="Forgotpassword">पासवर्ड भूल गए</string>
+    <string name="Signup">साइन अप</string>
+    <string name="orsigninwith">के साथ साइन इन करें</string>
+    <string name="Welcome">वेलकम</string>
+    <string name="OB">बाहरी लिंक पर जाएं </string>
+    <string name="facebook_app_id">1234</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">56789</string>
+    <string name="Pno">फ़ोन नंबर</string>
+    <string name="Sotp">OTP भेजें</string>
+    <string name="Enterpno">अपना फ़ोन नंबर डालें</string>
+    <string name="Votp">सत्यापित करें.</string>
+    <string name="setpass">पासवर्ड बदलें</string>
+    <string name="repass">पासवर्ड फिर से दर्ज करें</string>
+    <string name="Ep">पासवर्ड दर्ज करें</string>
+    <string name="epass">नया पासवर्ड सेट करें</string>
+    <string name="kk">अपना ईमेल दर्ज करें</string>
+    <string name="Em">ईमेल</string>
+    <string name="sl">लिंक भेजें</string>
+    <string name="th">ईमेल से रीसेट करने के लिए यहाँ टैप करें</string>
+
+</resources>
